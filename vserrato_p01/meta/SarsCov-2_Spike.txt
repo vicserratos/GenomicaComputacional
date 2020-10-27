@@ -1,0 +1,3 @@
+La proteina de coronairus spike es el que hace de mediador la entrada del coronavirus a las celulas huesped.
+
+Primero se une al receptor en la superficie de a céñula huesped a través de S1 y luego fusiona las membranas entre el virus y el huesped a tarvés de S2.

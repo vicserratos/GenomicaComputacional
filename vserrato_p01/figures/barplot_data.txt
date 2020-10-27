@@ -1,0 +1,7 @@
+     13 CDS
+      1 five_prime_UTR
+     11 gene
+     27 mature_protein_region_of_CDS
+      1 region
+      5 stem_loop
+      1 three_prime_UTR
